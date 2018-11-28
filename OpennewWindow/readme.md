@@ -1,0 +1,1 @@
+This project shows how to create and manage windows.
